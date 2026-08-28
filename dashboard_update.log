@@ -1,0 +1,301 @@
+2026-08-22 12:21:39,926 [INFO] Watching C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 for changes to: DMT LOG LINE-BAT 1& BAT 2.xlsx, DMT LOG LINE-1.xlsx, DMT LOG LINE-2.xlsx, DMT LOG LINE-7.xlsx, DMT LOG LINE-8.xlsx, DMT LOG LINE-3.xlsx, DMT LOG LINE 6.xlsx, DMT LOG LINE-4.xlsx
+2026-08-22 12:21:39,927 [INFO] Leave this window open. Press Ctrl+C to stop.
+2026-08-22 12:21:39,928 [INFO] Starting dashboard update run
+2026-08-22 12:21:39,930 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-22 12:21:39,948 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-22 12:21:40,270 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final Cost for Dashboard.xlsx (28 product codes, 68 models mapped)
+2026-08-22 12:21:53,431 [INFO] Combined 3834 records for today (2026-08-21)
+2026-08-22 12:21:53,469 [INFO] HPR yield computed from 20260822100000_HPR_20260822_110000-0500_to_20260822_120000-0500.csv.zip
+2026-08-22 12:21:53,750 [INFO] DPR yield computed from 20260822043000_DPR_20260821_060000-0500_to_20260822_060000-0500.csv.zip
+2026-08-22 12:21:55,036 [INFO] WPR yield computed from 20260822043000_WPR_20260815_060000-0500_to_20260822_060000-0500.csv.zip
+2026-08-22 12:21:55,105 [INFO] Rendering dashboard HTML...
+2026-08-22 12:21:55,192 [INFO] Dashboard updated successfully in 15.3s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-22 12:22:44,529 [INFO] Starting dashboard update run
+2026-08-22 12:22:44,529 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-22 12:22:44,538 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-22 12:22:44,720 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final Cost for Dashboard.xlsx (28 product codes, 68 models mapped)
+2026-08-22 12:22:55,933 [INFO] Combined 3834 records for today (2026-08-21)
+2026-08-22 12:22:55,950 [INFO] HPR yield computed from 20260822100000_HPR_20260822_110000-0500_to_20260822_120000-0500.csv.zip
+2026-08-22 12:22:56,230 [INFO] DPR yield computed from 20260822043000_DPR_20260821_060000-0500_to_20260822_060000-0500.csv.zip
+2026-08-22 12:22:57,448 [INFO] WPR yield computed from 20260822043000_WPR_20260815_060000-0500_to_20260822_060000-0500.csv.zip
+2026-08-22 12:22:57,517 [INFO] Rendering dashboard HTML...
+2026-08-22 12:22:57,583 [INFO] Dashboard updated successfully in 13.1s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:36:32,223 [INFO] Watching C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 for changes to: DMT LOG LINE-BAT 1& BAT 2.xlsx, DMT LOG LINE-1.xlsx, DMT LOG LINE-8.xlsx, DMT LOG LINE-3.xlsx, DMT LOG LINE-4.xlsx, DMT LOG LINE 6.xlsx, DMT LOG LINE-2.xlsx, DMT LOG LINE-7.xlsx
+2026-08-28 18:36:32,224 [INFO] Leave this window open. Press Ctrl+C to stop.
+2026-08-28 18:36:32,224 [INFO] Starting dashboard update run
+2026-08-28 18:36:32,224 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:36:32,236 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:36:32,478 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:36:33,018 [INFO] Change detected: DMT LOG LINE 6.xlsx
+2026-08-28 18:36:33,995 [INFO] Starting dashboard update run
+2026-08-28 18:36:33,996 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:36:34,009 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:36:34,382 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:36:48,026 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:36:49,347 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:37:09,079 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:37:09,113 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:37:09,114 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:37:09,114 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:37:09,114 [INFO] Rendering dashboard HTML...
+2026-08-28 18:37:09,277 [INFO] Dashboard updated successfully in 37.1s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:37:10,287 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:37:10,288 [INFO] Starting dashboard update run
+2026-08-28 18:37:10,288 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:37:10,304 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:37:10,669 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:37:12,557 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:37:12,584 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:37:12,590 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:37:12,591 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:37:12,592 [INFO] Rendering dashboard HTML...
+2026-08-28 18:37:12,808 [INFO] Dashboard updated successfully in 38.8s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:37:27,376 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:37:45,930 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:37:45,931 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:37:45,932 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:37:45,932 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:37:45,932 [INFO] Rendering dashboard HTML...
+2026-08-28 18:37:46,033 [INFO] Dashboard updated successfully in 35.7s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:42:59,413 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:43:04,995 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:43:04,999 [INFO] Starting dashboard update run
+2026-08-28 18:43:05,004 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:43:05,020 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:43:05,130 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:43:12,677 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:43:18,821 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:43:23,827 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:43:23,827 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:43:23,827 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:43:23,827 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:43:23,827 [INFO] Rendering dashboard HTML...
+2026-08-28 18:43:23,926 [INFO] Dashboard updated successfully in 18.9s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:43:24,930 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:43:24,930 [INFO] Starting dashboard update run
+2026-08-28 18:43:24,930 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:43:24,935 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:43:25,026 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:43:27,340 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:43:33,460 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:43:39,828 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:43:44,851 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:43:44,852 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:43:44,852 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:43:44,852 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:43:44,852 [INFO] Rendering dashboard HTML...
+2026-08-28 18:43:44,943 [INFO] Dashboard updated successfully in 20.0s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:43:45,947 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:43:45,947 [INFO] Starting dashboard update run
+2026-08-28 18:43:45,947 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:43:45,952 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:43:46,082 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:43:46,897 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:43:54,125 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:44:04,965 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:44:04,966 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:44:04,966 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:44:04,967 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:44:04,967 [INFO] Rendering dashboard HTML...
+2026-08-28 18:44:05,071 [INFO] Dashboard updated successfully in 19.1s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:44:06,075 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:44:06,075 [INFO] Starting dashboard update run
+2026-08-28 18:44:06,076 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:44:06,082 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:44:06,250 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:44:07,239 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:44:07,247 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:44:14,957 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:44:22,789 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:44:30,545 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:44:30,545 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:44:30,545 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:44:30,545 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:44:30,545 [INFO] Rendering dashboard HTML...
+2026-08-28 18:44:30,633 [INFO] Dashboard updated successfully in 24.6s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:44:31,637 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:44:31,638 [INFO] Starting dashboard update run
+2026-08-28 18:44:31,638 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:44:31,643 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:44:31,744 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:44:32,926 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:44:32,926 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:44:44,709 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:44:56,085 [INFO] Change detected: DMT LOG LINE-8.xlsx
+2026-08-28 18:44:59,651 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:44:59,651 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:44:59,651 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:44:59,651 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:44:59,651 [INFO] Rendering dashboard HTML...
+2026-08-28 18:44:59,736 [INFO] Dashboard updated successfully in 28.1s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:45:01,741 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:45:01,742 [INFO] Starting dashboard update run
+2026-08-28 18:45:01,742 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:45:01,747 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:45:01,841 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:45:02,447 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:45:09,908 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:45:21,367 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:45:21,367 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:45:21,367 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:45:21,367 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:45:21,368 [INFO] Rendering dashboard HTML...
+2026-08-28 18:45:21,447 [INFO] Dashboard updated successfully in 19.7s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:45:22,451 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:45:22,452 [INFO] Starting dashboard update run
+2026-08-28 18:45:22,452 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:45:22,456 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:45:22,552 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:45:23,997 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:45:28,812 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:45:28,818 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:45:28,838 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:45:28,847 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:45:28,854 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:45:31,231 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:45:45,525 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:45:45,525 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:45:45,525 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:45:45,525 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:45:45,525 [INFO] Rendering dashboard HTML...
+2026-08-28 18:45:45,616 [INFO] Dashboard updated successfully in 23.2s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:45:45,939 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:45:45,940 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:45:51,622 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:45:51,623 [INFO] Starting dashboard update run
+2026-08-28 18:45:51,624 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:45:51,635 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:45:51,790 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:45:59,216 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:46:09,912 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:46:09,913 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:46:09,913 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:46:09,913 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:46:09,913 [INFO] Rendering dashboard HTML...
+2026-08-28 18:46:09,996 [INFO] Dashboard updated successfully in 18.4s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:46:12,591 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:46:18,029 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:46:18,030 [INFO] Starting dashboard update run
+2026-08-28 18:46:18,030 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:46:18,035 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:46:18,143 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:46:27,952 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:46:38,547 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:46:38,547 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:46:38,547 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:46:38,547 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:46:38,547 [INFO] Rendering dashboard HTML...
+2026-08-28 18:46:38,631 [INFO] Dashboard updated successfully in 20.6s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:46:54,230 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:46:59,679 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:46:59,680 [INFO] Starting dashboard update run
+2026-08-28 18:46:59,680 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:46:59,685 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:46:59,779 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:47:07,125 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:47:23,230 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:47:23,231 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:47:23,231 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:47:23,231 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:47:23,231 [INFO] Rendering dashboard HTML...
+2026-08-28 18:47:23,335 [INFO] Dashboard updated successfully in 23.7s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:47:25,364 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:47:30,486 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:47:30,487 [INFO] Starting dashboard update run
+2026-08-28 18:47:30,488 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:47:30,494 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:47:30,725 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:47:40,679 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:47:49,166 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:47:52,064 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:47:52,066 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:47:52,112 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:47:56,665 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:47:56,666 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:47:56,666 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:47:56,666 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:47:56,666 [INFO] Rendering dashboard HTML...
+2026-08-28 18:47:56,769 [INFO] Dashboard updated successfully in 26.3s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:48:26,235 [INFO] Watching C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 for changes to: DMT LOG LINE-3.xlsx, DMT LOG LINE-4.xlsx, DMT LOG LINE-2.xlsx, DMT LOG LINE-7.xlsx, DMT LOG LINE-1.xlsx, DMT LOG LINE-8.xlsx, DMT LOG LINE 6.xlsx, DMT LOG LINE-BAT 1& BAT 2.xlsx
+2026-08-28 18:48:26,236 [INFO] Leave this window open. Press Ctrl+C to stop.
+2026-08-28 18:48:26,236 [INFO] Starting dashboard update run
+2026-08-28 18:48:26,236 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:48:26,244 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:48:26,456 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:48:29,180 [INFO] Starting dashboard update run
+2026-08-28 18:48:29,181 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:48:29,190 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:48:29,359 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:48:36,466 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:48:38,722 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:48:40,360 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:48:40,377 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:48:49,058 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:48:49,081 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:48:49,081 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:48:49,081 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:48:49,081 [INFO] Rendering dashboard HTML...
+2026-08-28 18:48:49,182 [INFO] Dashboard updated successfully in 22.9s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:48:50,187 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:48:50,187 [INFO] Starting dashboard update run
+2026-08-28 18:48:50,187 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:48:50,193 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:48:50,348 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:48:51,030 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:48:51,033 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:48:51,033 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:48:51,034 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:48:51,034 [INFO] Rendering dashboard HTML...
+2026-08-28 18:48:51,135 [INFO] Dashboard updated successfully in 22.0s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:48:51,575 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:48:51,579 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:48:59,859 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:49:13,164 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:49:13,165 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:49:13,165 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:49:13,165 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:49:13,165 [INFO] Rendering dashboard HTML...
+2026-08-28 18:49:13,303 [INFO] Dashboard updated successfully in 23.1s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:49:14,307 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:49:14,308 [INFO] Starting dashboard update run
+2026-08-28 18:49:14,308 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:49:14,317 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:49:14,456 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:49:15,466 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:49:15,514 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:49:25,369 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:49:37,832 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:49:37,832 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:49:37,833 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:49:37,833 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:49:37,833 [INFO] Rendering dashboard HTML...
+2026-08-28 18:49:37,924 [INFO] Dashboard updated successfully in 23.6s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:49:38,927 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:49:38,927 [INFO] Starting dashboard update run
+2026-08-28 18:49:38,927 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:49:38,933 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:49:39,024 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:49:47,476 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:49:58,002 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:49:58,002 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:49:58,002 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:49:58,002 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:49:58,002 [INFO] Rendering dashboard HTML...
+2026-08-28 18:49:58,084 [INFO] Dashboard updated successfully in 19.2s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html
+2026-08-28 18:50:14,225 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:50:18,903 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:50:18,905 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:50:18,906 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:50:18,944 [INFO] Change detected: DMT LOG LINE-7.xlsx
+2026-08-28 18:50:24,134 [INFO] Rebuilding dashboard (file change detected)...
+2026-08-28 18:50:24,135 [INFO] Starting dashboard update run
+2026-08-28 18:50:24,136 [INFO] Reading files from local folder C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\SCRAP\DMT LOGS1 ...
+2026-08-28 18:50:24,146 [INFO] Loaded 23 model costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\COST.xlsx
+2026-08-28 18:50:24,407 [INFO] Loaded stage cost data from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Final_Cost_for_Dashboard.xlsx (28 product codes, 67 models mapped)
+2026-08-28 18:50:33,748 [INFO] Loaded 1818 MFG_TX1 part costs from C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Dashbaord\Cost\Inventory Layer Cost Report_Jul'26.xlsx
+2026-08-28 18:50:48,734 [INFO] Combined 4607 records for today (2026-08-28)
+2026-08-28 18:50:48,735 [INFO] No HPR folder configured/found - skipping FPY/FY for hourly
+2026-08-28 18:50:48,735 [INFO] No DPR folder configured/found - skipping FPY/FY for daily
+2026-08-28 18:50:48,735 [INFO] No WPR folder configured/found - skipping FPY/FY for weekly
+2026-08-28 18:50:48,735 [INFO] Rendering dashboard HTML...
+2026-08-28 18:50:48,818 [INFO] Dashboard updated successfully in 24.7s -> C:\Users\Srija.Gouda\OneDrive - Salcomp Manufacturing\Defect Dashboard\defect_log_dashboard_v2.html

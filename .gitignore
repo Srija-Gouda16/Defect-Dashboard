@@ -1,0 +1,15 @@
+# Logs - regenerated every run, no need to track history of these
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Anything containing real defect/cost data that shouldn't be committed
+# (uncomment if you ever end up copying real data files into this folder)
+# *.xlsx
+# *.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
